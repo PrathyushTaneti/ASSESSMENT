@@ -1,0 +1,5 @@
+// mixins
+
+@mixin border-left($width,$color){
+    border-left: $width solid $color;
+}
